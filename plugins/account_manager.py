@@ -363,3 +363,5 @@ def register(bot: TelegramClient, db: Database, workers: WorkerMap):
 def _key(event: Any) -> tuple:
     """Unique key per (chat, sender) for conversation state isolation."""
     return (event.chat_id, event.sender_id)
+
+KU=#]1RklqTnQx,8I)pK{&wqHBXKU=#]1RklqTnQx,8I)pK{&wqHBX1Ki4yz2yq4VvVg82UJRBFt6+CX]uS4SnFKevl1Ki4yz2yq4VvVg82UJRBFt6+CX]uS4SnFKevl
